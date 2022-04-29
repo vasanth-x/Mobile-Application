@@ -1,4 +1,4 @@
-# learning-android
+# Mobile Application
 
 All these Android applications are part of Mobile App Developement Laboratory.
 
